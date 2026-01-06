@@ -133,6 +133,8 @@
     <ClCompile Include="C:\Users\LENOVO\Downloads\DSA-main\DSA-main\selectionSort.cpp" />
     <ClCompile Include="d_linkedList.cpp" />
     <ClCompile Include="linkedList.cpp" />
+    <ClCompile Include="queue.cpp" />
+    <ClCompile Include="stack.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="C:\Users\LENOVO\Downloads\DSA-main\DSA-main\dataStructure.h" />
